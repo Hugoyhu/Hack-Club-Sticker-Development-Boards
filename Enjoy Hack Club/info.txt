@@ -1,0 +1,4 @@
+SAMD21E18 based development board, with Enjoy Hack Club design. Alligator clip pads.
+
+Easy-solder 0805 handsolder footprints, TQFP32. USB-C connector(may be tricky to solder).
+
