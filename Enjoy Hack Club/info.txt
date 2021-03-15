@@ -2,3 +2,8 @@ SAMD21E18 based development board, with Enjoy Hack Club design. Alligator clip p
 
 Easy-solder 0805 handsolder footprints, TQFP32. USB-C connector(may be tricky to solder).
 
+Designed with KiCAD EDA. Fully Open Source, all source files provided.
+
+Use Adafruit's guide on flashing bootloaders: https://learn.adafruit.com/how-to-program-samd-bootloaders
+
+Supports CircuitPython.
